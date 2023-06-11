@@ -1,5 +1,7 @@
 import time
 
+#Made and designed by Sina Khairalahi
+
 number = int(input("Enter you Ribs\n"))
 
 Ribs = 2
